@@ -9,7 +9,7 @@ nltk.download('punkt')
 nltk.download('punkt_tab')
 
 # Pinecone API Key (For demo purposes, it is hardcoded. Replace with a secure method in production)
-api_key = "39f61a31-5175-4eab-a795-6958263612f9"
+api_key = "74d35c5b-bf79-465f-8bac-85198a0520f0"
 
 # Initialize Pinecone client
 pc = Pinecone(api_key=api_key)
